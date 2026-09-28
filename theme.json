@@ -1,6 +1,6 @@
 {
-    "name": "Yoriichi Flame Animated",
-    "description": "Animated Yoriichi Red Theme with Fixed Chat Transparency",
+    "name": "Yoriichi Theme",
+    "description": "Animated Yoriichi Red Theme",
     "authors": [
         {
             "name": "Vivek",
@@ -119,7 +119,7 @@
     },
     "spec": 2,
     "background": {
-        "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554087169482817616/ezgif-78ba833f72991c4b.gif?ex=6abb9bf6&is=6aba4a76&hm=b44c593c6b066bdc67956e299d41df4b6a528412832df20a3ce389faf62d5b78&",
+        "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554090250756952175/ezgif-1a2ca88cf459355f.gif?ex=6abb9ed5&is=6aba4d55&hm=0b4a273067c0616e4c8794b71dc1fa899fdc85fa46e5e3d8a35f205657b67f03&",
         "alpha": 1,
         "color": "#0a0203"
     }
