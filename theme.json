@@ -1,0 +1,126 @@
+{
+    "name": "Yoriichi Flame",
+    "description": "A theme of Yoriichi Tsugikuni animated background. DARK MODE REQUIRED!",
+    "authors": [
+        {
+            "name": "Vivek",
+            "id": "0"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#ffffff"
+        ],
+        "HEADER_SECONDARY": [
+            "#ef4444"
+        ],
+        "TEXT_NORMAL": [
+            "#ffffff"
+        ],
+        "TEXT_MUTED": [
+            "#fca5a5"
+        ],
+        "TEXT_LINK": [
+            "#ef4444"
+        ],
+        "TEXT_DANGER": [
+            "#ef4444"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#ffffff"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#808080"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#0a0203"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#140507"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1c070a"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#080102"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#7f1d1d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#140507"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#0a0203"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#140507"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#140507"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#7f1d1d65"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1c070a"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#7f1d1d"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#1c070a"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#0a0203"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "transparent"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#fca5a5"
+        ],
+        "CHAT_BACKGROUND": [
+            "#0a0203"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#fca5a5"
+        ],
+        "CHANNEL_ICON": [
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_100": "#ffffff",
+        "PRIMARY_200": "#ffffff",
+        "PRIMARY_300": "#ffffff",
+        "PRIMARY_360": "#fca5a5",
+        "PRIMARY_500": "#ef4444",
+        "PRIMARY_600": "#0a0203",
+        "PRIMARY_630": "#0a0203",
+        "PRIMARY_660": "#0a0203",
+        "PRIMARY_700": "#0a0203",
+        "PRIMARY_800": "#0a0203",
+        "BRAND_260": "#ef4444",
+        "BRAND_360": "#ef4444",
+        "BRAND_500": "#dc2626",
+        "BRAND_560": "#ffffff",
+        "WHITE_500": "#ffffff",
+        "BLUE_345": "#ef4444",
+        "YELLOW_300": "#ef4444",
+        "ORANGE_345": "#ef4444",
+        "GREEN_345": "#ef4444",
+        "GREEN_360": "#ef4444",
+        "RED_560": "#ef4444",
+        "RED_400": "#ef4444"
+    },
+    "spec": 2,
+    "background": {
+        "url": "https://cdn.discordapp.com/attachments/1535222438462357654/1554080169872982116/ezgif-570cd26fd2006a55.gif?ex=6abb9571&is=6aba43f1&hm=cae4629c231f06acc07bc1980dd4a8ca48cedf2a75f08ec4f6122b7c5e5db966&",
+        "alpha": 0.5,
+        "color": "#0a0203"
+    }
+}
