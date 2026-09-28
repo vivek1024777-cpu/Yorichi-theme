@@ -1,6 +1,6 @@
 {
     "name": "Yoriichi Flame Animated",
-    "description": "Animated Yoriichi Red Theme with Transparent Chat Overlay.",
+    "description": "Animated Yoriichi Red Theme with Fixed Chat Transparency",
     "authors": [
         {
             "name": "Vivek",
@@ -36,31 +36,31 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#0a020340"
+            "#00000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#14050750"
+            "#00000000"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1c070a60"
+            "#00000000"
         ],
         "BACKGROUND_TERTIARY": [
-            "#08010260"
+            "#00000000"
         ],
         "BACKGROUND_ACCENT": [
-            "#7f1d1d"
+            "#7f1d1d80"
         ],
         "BACKGROUND_FLOATING": [
             "#140507d0"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#0a020330"
+            "#00000000"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#14050740"
+            "#00000000"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#14050760"
+            "#00000000"
         ],
         "BACKGROUND_MENTIONED": [
             "#7f1d1d65"
@@ -84,7 +84,7 @@
             "#fca5a5"
         ],
         "CHAT_BACKGROUND": [
-            "transparent"
+            "#00000000"
         ],
         "CHANNELS_DEFAULT": [
             "#fca5a5"
@@ -99,11 +99,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#fca5a5",
         "PRIMARY_500": "#ef4444",
-        "PRIMARY_600": "#0a0203",
-        "PRIMARY_630": "#0a0203",
-        "PRIMARY_660": "#0a0203",
-        "PRIMARY_700": "#0a0203",
-        "PRIMARY_800": "#0a0203",
+        "PRIMARY_600": "#00000000",
+        "PRIMARY_630": "#00000000",
+        "PRIMARY_660": "#00000000",
+        "PRIMARY_700": "#00000000",
+        "PRIMARY_800": "#00000000",
         "BRAND_260": "#ef4444",
         "BRAND_360": "#ef4444",
         "BRAND_500": "#dc2626",
@@ -120,7 +120,7 @@
     "spec": 2,
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554087169482817616/ezgif-78ba833f72991c4b.gif?ex=6abb9bf6&is=6aba4a76&hm=b44c593c6b066bdc67956e299d41df4b6a528412832df20a3ce389faf62d5b78&",
-        "alpha": 0.8,
+        "alpha": 1,
         "color": "#0a0203"
     }
 }
