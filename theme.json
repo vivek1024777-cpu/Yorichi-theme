@@ -1,6 +1,6 @@
 {
-    "name": "Yoriichi Flame",
-    "description": "Animated Yoriichi Red Theme",
+    "name": "Yorichi Animated",
+    "description": "Yorichi animated red theme",
     "authors": [
         {
             "name": "Vivek",
@@ -36,16 +36,16 @@
             "#808080"
         ],
         "BACKGROUND_PRIMARY": [
-            "#00000000"
+            "#0a020350"
         ],
         "BACKGROUND_SECONDARY": [
-            "#00000000"
+            "#14050760"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#00000000"
+            "#1c070a70"
         ],
         "BACKGROUND_TERTIARY": [
-            "#00000000"
+            "#08010260"
         ],
         "BACKGROUND_ACCENT": [
             "#7f1d1d80"
@@ -54,13 +54,13 @@
             "#140507d0"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#00000000"
+            "#0a020340"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#00000000"
+            "#14050750"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#00000000"
+            "#14050760"
         ],
         "BACKGROUND_MENTIONED": [
             "#7f1d1d65"
@@ -84,7 +84,7 @@
             "#fca5a5"
         ],
         "CHAT_BACKGROUND": [
-            "#00000000"
+            "#0a020330"
         ],
         "CHANNELS_DEFAULT": [
             "#fca5a5"
@@ -99,11 +99,11 @@
         "PRIMARY_300": "#ffffff",
         "PRIMARY_360": "#fca5a5",
         "PRIMARY_500": "#ef4444",
-        "PRIMARY_600": "#00000000",
-        "PRIMARY_630": "#00000000",
-        "PRIMARY_660": "#00000000",
-        "PRIMARY_700": "#00000000",
-        "PRIMARY_800": "#00000000",
+        "PRIMARY_600": "#0a0203",
+        "PRIMARY_630": "#0a0203",
+        "PRIMARY_660": "#0a0203",
+        "PRIMARY_700": "#0a0203",
+        "PRIMARY_800": "#0a0203",
         "BRAND_260": "#ef4444",
         "BRAND_360": "#ef4444",
         "BRAND_500": "#dc2626",
@@ -120,7 +120,7 @@
     "spec": 2,
     "background": {
         "url": "https://cdn.discordapp.com/attachments/1540730229369212998/1554090250756952175/ezgif-1a2ca88cf459355f.gif?ex=6abb9ed5&is=6aba4d55&hm=0b4a273067c0616e4c8794b71dc1fa899fdc85fa46e5e3d8a35f205657b67f03&",
-        "alpha": 1,
+        "alpha": 0.85,
         "color": "#0a0203"
     }
 }
